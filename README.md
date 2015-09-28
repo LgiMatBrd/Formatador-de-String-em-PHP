@@ -7,7 +7,11 @@ Código desenvolvido para formtar qualquer string e deixa-la apenas com as prime
 Basta chamar a função 'conversor' e enviar a string a qual deseja formatar como parametro da função.
 
 EX:
+```bash
 echo conversor('<b> LUIGI MATHEUS AFORNALLI BREDA </b>'); echo '<br /><br />';
+```
 
 RESULTADO:
+```bash
 Luigi Matheus Afornalli Breda
+```
